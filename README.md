@@ -1,9 +1,9 @@
 # PengalamanBelajar
 Repository ini berisi pengalaman belajarku di Dicoding
 
-14 Juni 2021
-Belajar kelas Memulai Pemrograman dengan Java. (Progres 21%)
+16 Agustus 2023
+Belajar kelas Memulai belajar git dan github. (Progres 21%)
 
-* Belajar tentang apa itu Java dan alasan menggunakannya.
+* Belajar tentang apa itu git dan github.
 
-* Belajar tools yang dapat digunakan untuk menjalankan bahasa pemrograman Java.
+* Belajar tools yang ada pada git dan github.
